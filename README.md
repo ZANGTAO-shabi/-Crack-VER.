@@ -1,9 +1,6 @@
 ﻿<p align="center"><img width="15%" src="icons/icon-128.png" /></p>
 <h1 align="center">谷歌访问助手优化破解版</h1>
 
-谷歌访问助手破解版 
-
-
 **本软件已破解，可永久免费使用！**
 
 <table align="center">
