@@ -4,11 +4,6 @@
 谷歌访问助手破解版 
 
 <table align="center">
-  <tr>
-    <td align="center"><img src="img/google.png" /></td>
-    <td align="center"><img src="img/chrome.png" /></td>
-    <td align="center"><img src="img/gmail.png" /></td>
-    <td align="center"><img src="img/googleplus.png" /></td>
   </tr>
   <tr>
     <td align="center">Google搜索</td>
